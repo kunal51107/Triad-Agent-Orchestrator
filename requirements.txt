@@ -1,0 +1,5 @@
+tavily-python
+google-generativeai
+groq
+python-dotenv
+colorama

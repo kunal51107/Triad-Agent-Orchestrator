@@ -1,0 +1,11 @@
+# Security: Ignore keys
+.env
+
+# System: Ignore virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Logs and Reports
+*.log
+Report_*.md
