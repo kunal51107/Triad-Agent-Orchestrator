@@ -19,7 +19,7 @@ The Triad Agent Orchestrator implements a three-stage pipeline where specialized
 - **Colorful CLI**: Beautiful terminal interface with status indicators
 - **Error Handling**: Robust retry logic and graceful failure management
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -33,7 +33,7 @@ The Triad Agent Orchestrator implements a three-stage pipeline where specialized
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/kunal51107/Triad-Agent-Orchestrator
    cd triad-agent-orchestrator
    ```
 
@@ -70,7 +70,7 @@ The system will:
 3. Generate a formatted report
 4. Save it as `Report_<your_query>.md`
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
